@@ -5,7 +5,8 @@
 - 프로젝트 명 : SAM$UNG BVNK
 - 팀원 : 김혁일(풀스택), 김민준(프론트)
 - 프로젝트 기간 : 23.11.15(수) ~ 23.11.24(금)
-- 기술 : Python, Django, Node.js, Vue.js
+- 기술 : Python, Django, Node.js, Vue.js, JavaScriipt
+- 1학기 프로젝트 우수상 수상
 
 ## 프로젝트 소개
 - 프로젝트 목표 : 금융 상품 비교 애플리케이션 서비스 완성
